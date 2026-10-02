@@ -49,8 +49,10 @@ A wildlife-collision prevention system: Raspberry Pi cameras stream to a hosted 
 ### [GeoSync](https://github.com/Igkerdouki/geosync) — where does pesticide drift go once it leaves the field?
 A geospatial platform over California's Pesticide Use Reports that predicts off-farm drift with a Gaussian plume model, Pasquill–Gifford stability classes and live weather, then shows it as a live risk map.
 
-### [Bloom](https://github.com/Igkerdouki/portfolio-tracker) — trading agents that learn from their own journal
-A full-stack portfolio tracker with ML price prediction and a multi-agent system — orchestrator, scanner, execution and journal agents passing typed messages, with Interactive Brokers sync. In progress, and labelled that way.
+### [Bloom](https://github.com/Igkerdouki/portfolio-tracker) — investing for “dummies”
+Most investing tools assume you already know what you're doing. Bloom teaches you as you use it: ask "highlight the 3 best treasuries from this list" and the built-in assistant marks its picks and explains each one in plain language. Underneath are ML price prediction and a multi-agent system. It links to Interactive Brokers, Coinbase and Alpaca, or imports a CSV from any broker, with more platforms on the way. In progress.
+
+<img src="./assets/bloom-bonds.png" width="100%" alt="Bloom's bond finder, with three Treasuries marked as the assistant's picks and the reasoning shown in a chat panel beside the list.">
 
 ### Neural signal decoding — what colour did the eye just see?
 Research at UC San Diego's IEBL: Python and MATLAB pipelines that preprocess multi-channel electrophysiology, extract temporal and spectral features, and classify colour from optic nerve recordings. Lab work, so the code is not public.

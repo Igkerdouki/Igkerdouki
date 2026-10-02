@@ -6,6 +6,8 @@ Hi, I'm **Ioanna Gkerdouki** — a Mathematics–Computer Science student at UC 
 
 So far that has meant cameras that recognize a medical emergency, a model of where pesticides drift, pipelines that decode signals from the optic nerve, trading agents that keep a journal, and an open problem in number theory. Different fields, same method: find the question, then build the whole thing that answers it — the model, the architecture around it, and the interface that makes it trustworthy.
 
+**See the work, with demos: [igkerdouki.github.io](https://igkerdouki.github.io)**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=white)
@@ -74,4 +76,4 @@ Nobody knows; the problem has been open since 1984. Independent, computer-assist
 
 ## Say hello
 
-[LinkedIn](https://www.linkedin.com/in/ioanna-gkerdouki-821b10153/) · [All my repositories](https://github.com/Igkerdouki?tab=repositories)
+[Portfolio](https://igkerdouki.github.io) · [LinkedIn](https://www.linkedin.com/in/ioanna-gkerdouki-821b10153/) · [All my repositories](https://github.com/Igkerdouki?tab=repositories)

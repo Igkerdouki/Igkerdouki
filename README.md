@@ -2,7 +2,9 @@
   <img src="./assets/hello.svg" width="100%" alt="Hello, I'm Ioanna. I build systems that notice what people miss.">
 </p>
 
-Hi, I'm **Ioanna Gkerdouki** — a Mathematics–Computer Science student at UC San Diego who can't leave a good question alone. I build machine learning systems end to end: the model, the architecture around it, and the interface that makes it trustworthy.
+Hi, I'm **Ioanna Gkerdouki** — a Mathematics–Computer Science student at UC San Diego. I'm curious about almost everything, and I've learned I can walk into a field I know nothing about and build something real in it.
+
+So far that has meant cameras that recognize a medical emergency, a model of where pesticides drift, pipelines that decode signals from the optic nerve, trading agents that keep a journal, and an open problem in number theory. Different fields, same method: find the question, then build the whole thing that answers it — the model, the architecture around it, and the interface that makes it trustworthy.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)

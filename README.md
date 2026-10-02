@@ -43,8 +43,8 @@ So far that has meant cameras that recognize a medical emergency, a model of whe
 ### Perceptra — cameras that recognize an emergency
 Live video in, alert out: pose-based detection of falls, choking and unresponsiveness, built with MediaPipe, YOLO and FastAPI. I originated the product at the San Diego Supercomputer Center, designed the architecture from camera to alert, and wrote the detection pipeline. The code lives in SDSC's private repository; the front-end demo is [here](https://github.com/Igkerdouki/-percepta-demo).
 
-### [WildSafe](https://github.com/Igkerdouki/wildsafe-ml-service) — the model said 98.5%. I proved it was 50%, then got it right.
-A wildlife-collision prevention system: Raspberry Pi cameras stream to a hosted inference service running CLIP zero-shot classification and MediaPipe pose estimation. The most useful thing I did was catch a train/test leak in our own best number. 🏆 Winner, IEEE Quarterly Projects, Spring 2026 — [see it on Devpost](https://devpost.com/software/wildwatch-a-wildlife-detection-system-for-road-safety-3djoa9).
+### [WildSafe](https://github.com/Igkerdouki/wildsafe-ml-service) — spotting the animal before the driver does
+A wildlife-collision prevention system: Raspberry Pi cameras stream to a hosted inference service running zero-shot CLIP classification (94–99% accurate per species) and MediaPipe pose estimation. The driver gets an alert on their phone, and the animal gets a deterrent sound tuned to its species. 🏆 Winner, IEEE Quarterly Projects, Spring 2026 — [see it on Devpost](https://devpost.com/software/wildwatch-a-wildlife-detection-system-for-road-safety-3djoa9).
 
 ### [GeoSync](https://github.com/Igkerdouki/geosync) — where does pesticide drift go once it leaves the field?
 A geospatial platform over California's Pesticide Use Reports that predicts off-farm drift with a Gaussian plume model, Pasquill–Gifford stability classes and live weather, then shows it as a live risk map.

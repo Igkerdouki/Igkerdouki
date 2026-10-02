@@ -70,4 +70,4 @@ Nobody knows; the problem has been open since 1984. Independent, computer-assist
 
 ## Say hello
 
-[LinkedIn](https://www.linkedin.com/in/ioanna-gkerdouki) · [All my repositories](https://github.com/Igkerdouki?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/ioanna-gkerdouki-821b10153/) · [All my repositories](https://github.com/Igkerdouki?tab=repositories)
